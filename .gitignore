@@ -1,0 +1,23 @@
+# Pipeline
+frames/
+
+# Python
+__pycache__
+*.pyc
+venv
+
+# Images
+*.tif
+*.png
+*.jpg
+*.xml
+
+# Vectors
+*.geojson
+*.shp
+*.dbf
+*.prj
+*.shx
+
+# Video
+*.gif
